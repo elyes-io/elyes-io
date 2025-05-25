@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm Elyes.
+## 👋 Hello there! I'm Elyes
 
 ## Software Engineer | DevOps Enthusiast
 
