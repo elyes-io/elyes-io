@@ -2,15 +2,15 @@
 
 ## Software Engineer | DevOps Enthusiast
 
+## About Me
+
+I'm a results-driven Software Engineer with a strong focus on DevOps, automation, and designing systems that can grow easily. I build reliable, easy-to-maintain software and help make the development process faster and smoother using modern DevOps tools and practices. My goal is to connect development and operations teams to improve efficiency, make deployments more reliable, and build systems that can handle problems well.
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elyes-dachraoui)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:elyes.dachraoui@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/elyes-io)
-
-## About Me
-
-I'm a results-driven Software Engineer with a strong focus on DevOps, automation, and designing systems that can grow easily. I build reliable, easy-to-maintain software and help make the development process faster and smoother using modern DevOps tools and practices. My goal is to connect development and operations teams to improve efficiency, make deployments more reliable, and build systems that can handle problems well.
 
 ## Technical Expertise
 
