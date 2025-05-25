@@ -10,7 +10,7 @@
 
 ## About Me
 
-Results-oriented Software Engineer with expertise in DevOps practices, automation, and scalable system design. I specialize in building maintainable, production-ready software while streamlining development lifecycles through modern DevOps methodologies. My focus is on bridging development and operations to drive engineering efficiency, deployment reliability, and system resilience.
+I'm a results-driven Software Engineer with a strong focus on DevOps, automation, and designing systems that can grow easily. I build reliable, easy-to-maintain software and help make the development process faster and smoother using modern DevOps tools and practices. My goal is to connect development and operations teams to improve efficiency, make deployments more reliable, and build systems that can handle problems well.
 
 ## Technical Expertise
 
