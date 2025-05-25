@@ -1,5 +1,7 @@
-# Elyes Dachraoui
-## Software Engineer | DevOps Specialist
+## 👋 Hello there! I'm Elyes.
+## Software Engineer | DevOps Enthusiast
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elyes-dachraoui)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:elyes.dachraoui@outlook.com)
@@ -8,14 +10,6 @@
 ## About Me
 
 Results-oriented Software Engineer with expertise in DevOps practices, automation, and scalable system design. I specialize in building maintainable, production-ready software while streamlining development lifecycles through modern DevOps methodologies. My focus is on bridging development and operations to drive engineering efficiency, deployment reliability, and system resilience.
-
-## Contact
-
-Feel free to reach out for collaboration opportunities, technical discussions, or professional inquiries.
-
-**Email:** elyes.dachraoui@outlook.com  
-**LinkedIn:** [linkedin.com/in/elyes-dachraoui](https://linkedin.com/in/elyes-dachraoui)  
-**GitHub:** [github.com/elyes-io](https://github.com/elyes-io)
 
 ## Technical Expertise
 
